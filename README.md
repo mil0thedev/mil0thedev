@@ -1,7 +1,5 @@
 
-<p align="center">
-  <b>Redes Sociales</b>
-</p>
+<h3 align="center">Redes Sociales</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-camilo-vergara-marin-a50805263/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
@@ -14,9 +12,7 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Certificaciones</b>
-</p>
+<h3 align="center">Certificaciones</h3>
 <p align="center">
   <a href="https://www.coursera.org/user/f4be244f90842e2e4e095a0d910ff2fe">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" height="35"/>
