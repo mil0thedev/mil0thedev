@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/Banner.gif"/></div>
+<div align="center"><img src="assets/BannerSM.gif"/></div>
 
 ###
 
