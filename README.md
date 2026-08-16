@@ -54,10 +54,4 @@
   <a href="https://www.credly.com/badges/c403084c-6851-4396-ac4e-231b8a5d9a9f/public_url" target="_blank"><img width="300" height="300" alt="front-end-developer-professional-certificate-v-1" src="https://github.com/user-attachments/assets/ff8567c6-3fb3-474c-91e1-48d49581fe98" /></a>
 </div>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mil0thedev/mil0thedev/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mil0thedev/mil0thedev/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mil0thedev/mil0thedev/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
 
