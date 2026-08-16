@@ -1,3 +1,7 @@
+<div align="center"><img src="assets/Banner.gif"/></div>
+
+###
+
 <div data-importer="stats" align="center">
 
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mil0thedev&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=mil0thedev&show_icons=true&include_all_commits=true&theme=swift)
