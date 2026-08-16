@@ -1,13 +1,5 @@
 <div align="center"><img src="assets/BannerSM.gif"/></div>
 
-###
-
-<div data-importer="stats" align="center">
-
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mil0thedev&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=mil0thedev&show_icons=true&include_all_commits=true&theme=swift)
-  <img src="https://streak-stats.demolab.com?user=mil0thedev&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
 <h3 align="center">Social Networks</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-camilo-vergara-marin-a50805263/">
@@ -31,8 +23,16 @@
   </a>
 </p>
 
+## My Stats 🌟
 
-## Tech Stack
+<div data-importer="stats" align="center">
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mil0thedev&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=mil0thedev&show_icons=true&include_all_commits=true&theme=swift)
+  <img src="https://streak-stats.demolab.com?user=mil0thedev&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+</div>
+
+
+## Tech Stack 💻
 <h3 align="center">Frontend & UI/UX</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -54,7 +54,7 @@
   </a>
 </p>
 
-## Badges
+## Badges 🏅
 <div align="left">
   <a href="https://www.credly.com/badges/c403084c-6851-4396-ac4e-231b8a5d9a9f/public_url" target="_blank"><img width="300" height="300" alt="front-end-developer-professional-certificate-v-1" src="https://github.com/user-attachments/assets/ff8567c6-3fb3-474c-91e1-48d49581fe98" /></a>
 </div>
