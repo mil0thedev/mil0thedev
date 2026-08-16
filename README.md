@@ -1,7 +1,7 @@
 <div data-importer="stats" align="center">
 
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mil0thedev&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=mil0thedev&show_icons=true&include_all_commits=true&theme=swift)
-  <img src="https://streak-stats.demolab.com?user=mil0thedev&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=mil0thedev&locale=en&mode=daily&theme=swift&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 <h3 align="center">Social Networks</h3>
